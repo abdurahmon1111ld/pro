@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+header a{
+    text-decoration: none;
+    color: white;
+}
+nav{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+.ba div{
+ width: 277px;
+    color: white;
+    margin-left: 100px;
+}
+.ba div h3{
+    font-size: 40px;
+}
+.ba div button{
+    width: 109px;
+    height: 55px;
+    border: none;
+    background-color: #76B900;
+margin-top: 50px;
+}
+.uhla{
+    background-image: url(./slider2\ 2\ \(2\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 385px;
+}
+.box{
+    display: flex;
+margin-top: 100px;
+margin-left: 50px;
+flex-wrap: wrap;
+gap: 30px;
+justify-content: center;
+}
+.card{
+    text-align: center;
+box-shadow: 0px 17px 27px -4px #00000040;
+
+}
+.box h3{
+    margin-top: 20px;
+}
+
+.ichi{
+    margin-top: 50px;
+   
+    
+}
+.ichi a{
+    text-decoration: none;
+    color: black;
+
+}
